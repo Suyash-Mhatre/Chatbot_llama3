@@ -7,7 +7,7 @@
 **Quick Start**
 
 - **Requirements:** Python 3.8+ and the packages listed in [requirements.txt].
-- **Install:** create a virtual environment, activate it, and install dependencies.
+- **Install:** create a virtual environment using uv package manager, activate it, and install dependencies.
 
 ```cmd
 .venv\Scripts\activate 

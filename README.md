@@ -2,7 +2,7 @@
 **Project Overview**
 
 - **Name:** Langchainproj — simple local chatbot project
-- **Description:** A minimal project that runs a local chatbot. The codebase includes an entry point and a chatbot helper module for integrating or wrapping local language-model logic.
+- **Description:** A minimal project that runs a local chatbot. The codebase includes an entry point and a chatbot helper module for integrating or wrapping local language model logic.
 
 **Quick Start**
 

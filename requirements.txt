@@ -20,6 +20,5 @@ arxiv
 langchainhub
 sentence_transformers
 PyPDF2
-langchain-objectbox
 langchain
 langchain_ollama

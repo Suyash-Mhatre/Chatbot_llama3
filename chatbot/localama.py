@@ -14,7 +14,7 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-st.title("LANGCHAIN Demo with OLLAMA")
+st.title("LANGCHAIN Chatbot using OLLAMA")
 input_text = st.text_input("Search the topic you want")
 
 llm = Ollama(model="llama3")
